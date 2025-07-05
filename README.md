@@ -18,7 +18,8 @@
 
 <p align="center">
   <strong>📌 Mô hình tổng thể:</strong><br>
-  ![TT](https://github.com/Cuong312004/enterprise-network-design/blob/main/Picture1.png)
+  
+  ![TSC](https://github.com/Cuong312004/enterprise-network-design/blob/main/Picture1.png)
 
   <strong>🏢 Trụ sở chính – TP. Thủ Đức:</strong><br>
   ![TSC](https://github.com/Cuong312004/enterprise-network-design/blob/main/Picture2.png)
